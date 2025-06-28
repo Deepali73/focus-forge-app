@@ -1,0 +1,4 @@
+streamlit
+cvzone
+opencv-python
+numpy
